@@ -1,0 +1,7 @@
+Personas todo:
+
+* Make stub persona files for each user outlined in the Pleiades "users and use cases" diagram (name)
+* Generate base PDFs of the weebles for each persona
+* Generate PNGs of the weebles for each persona
+* Add short descriptions to every persona file
+* Build XSLT to generate full listing (index) of all personas
