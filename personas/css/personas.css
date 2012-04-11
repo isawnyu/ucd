@@ -1,0 +1,38 @@
+body {
+    text-align: left;
+    width: 7.5in;
+    margin: auto;
+    padding: 20px;
+}
+
+.person-portrait {
+    float: right;
+}
+
+.person-details {
+    clear: both;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+div.state {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+p {
+    margin-bottom: 1em;
+}
+
+ul {
+    margin-left: 3em;
+    margin-bottom: 1em;
+}
+
+li {
+    list-style: circle;
+}
+
+#footer {
+    margin-top: 1em;
+    font-style: italic;
+}

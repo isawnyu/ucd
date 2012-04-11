@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
-    xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg" xmlns:math="http://www.w3.org/1998/Math/MathML"
+    xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Nisma Hassan (an ISAW user persona)</title>
             </titleStmt>
             <publicationStmt>
-                <p>Used for software scenario development by the <ref target="http://isaw.nyu.edu"
-                        >Institute for the Study of the Ancient World</ref> at New York University.
-                    Copyright 2012 NYU. Reusable under terms of a Creative Commons Attribution
-                    License.</p>
+                <p>This fictional user persona was created for software scenario development by the <ref target="http://isaw.nyu.edu">Institute for the Study of the Ancient World</ref>
+                    at New York University. Copyright 2012 NYU. Reusable under terms of a <ref target="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution License</ref>.</p>
             </publicationStmt>
             <sourceDesc>
-                <p>Invented by the ISAW Digital Programs team, and collaborators. This is a
-                    fictional character.</p>
+                <p>born digital</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -30,19 +27,25 @@
                     <age value="24"/>
                     <education>Bachelor's degree in Ancient History</education>
                     <occupation>
-                        <roleName>Managing Editor</roleName>, <name type="project" key="AWIB"
-                            >Ancient World Image Bank</name>,
-                            <orgName>ISAW</orgName>/<orgName>NYU</orgName></occupation>
+                        <roleName>Managing Editor</roleName>, 
+                        <name type="project" key="AWIB">Ancient World Image Bank</name>,
+                        <orgName>ISAW</orgName>/<orgName>NYU</orgName>
+                    </occupation>
+                    <figure xml:id="portrait">
+                        <graphic url="gfx/nisma-hassan-gfx-72.png">
+                            <desc>Cartoon portrait image of Nisma Hassan</desc>
+                        </graphic>
+                        <ab type="rights">Image modified from UX People icon by Jeff Callender (cc-by) 
+                            <ref target="http://findability.org/archives/000636.php">http://findability.org/archives/000636.php</ref>.</ab>
+                    </figure>
                     <state type="motivation">
                         <p>Motivation:</p>
                         <p>
                             <list>
-                                <item>Spreading knowledge about and interest in the Ancient
-                                    World</item>
-                                <item>Making HIGH-QUALITY images more easily accessible to both the
-                                    scholarly community and the general public.</item>
-                                <item>Enable individual users to have a meaningful contribution to
-                                    the scholarly community through the sharing of image.</item>
+                                <item>Spreading knowledge about and interest in the Ancient World</item>
+                                <item>Making HIGH-QUALITY images more easily accessible to both the scholarly community and the general public.</item>
+                                <item>Enable individual users to have a meaningful contribution to the scholarly community through the sharing of
+                                    image.</item>
                             </list>
                         </p>
                     </state>
@@ -50,12 +53,9 @@
                         <p>Goals and objectives:</p>
                         <p>
                             <list>
-                                <item>Moderating the quality and accuracy images and related
-                                    information.</item>
-                                <item>Effectively communicate user experience and feedback to the
-                                    development team.</item>
-                                <item>Identifying gaps in the collection and seeking out
-                                    contributors who can fill them.</item>
+                                <item>Moderating the quality and accuracy images and related information.</item>
+                                <item>Effectively communicate user experience and feedback to the development team.</item>
+                                <item>Identifying gaps in the collection and seeking out contributors who can fill them.</item>
                                 <item>Managing and educating a community of contributors</item>
                             </list>
                         </p>
@@ -92,10 +92,8 @@
                         <p>Preferences for interacting with others:</p>
                         <p>
                             <list>
-                                <item>Prefers unscripted face-to-face interaction with
-                                    collaborators; however, remote nature of the team necessitate
-                                    pre-planned telephonic, skype, text-chat interactions +
-                                    email.</item>
+                                <item>Prefers unscripted face-to-face interaction with collaborators; however, remote nature of the team necessitate
+                                    pre-planned telephonic, skype, text-chat interactions + email.</item>
                             </list>
                         </p>
                     </state>
@@ -104,8 +102,7 @@
                         <p>
                             <list>
                                 <item>Daily web user since 2000</item>
-                                <item>Experience with online platforms such as Flickr, Google+,
-                                    blogs and social media</item>
+                                <item>Experience with online platforms such as Flickr, Google+, blogs and social media</item>
                                 <item>Experience with digital academic resources</item>
                             </list>
                         </p>
@@ -123,8 +120,7 @@
                         <p>Working environment(s) and gear</p>
                         <p>
                             <list>
-                                <item>Desk in open carrel at ISAW: iMac, no phone, voice
-                                    conversation discouraged (quiet zone)</item>
+                                <item>Desk in open carrel at ISAW: iMac, no phone, voice conversation discouraged (quiet zone)</item>
                                 <item>some work from home (laptop)</item>
                                 <item>mobile: android phone</item>
                                 <item>Nikon and Sony cameras</item>
